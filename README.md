@@ -9,7 +9,7 @@ there is another code for **MAX741** but that IC is not in proteus Libraries tho
 
 ### Using 1 Arduino Uno, ACS712, 1 LCD 16x2, 1 potentiometer, 2 resistences, 9v lamp, and 9v battery.
 
-![Circuit](img/Proteus.jpg)
+![Circuit](img/proteus.jpg)
 
 | Pins to Arduino       | Description                                   |
 | --------------------- | --------------------------------------------- |
